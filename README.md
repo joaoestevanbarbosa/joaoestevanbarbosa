@@ -1,8 +1,10 @@
 ## Olá! Eu sou João Estevan Barbosa 👋
 
 
-🔭 Atualmente cursando Desenvolvimento Web Full Stack pela Let's Code!
-🤔 Procurando uma oportunidade profissional!
+<div>🔭 Atualmente cursando Desenvolvimento Web Full Stack pela Let's Code!</div>
+<div>🤔 Procurando uma oportunidade profissional!</div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/joaoestevanbarbosa">
