@@ -1,7 +1,7 @@
 ## Olá! Eu sou João Estevan Barbosa 👋
 
-
-<div>🔭 Atualmente cursando Desenvolvimento Web Full Stack pela Let's Code!</div>
+<div>🔭 Bacharel em Engenharia e Docente em Matemática</div>
+<div>🔭 Realizei um bootcamp patrocinado de 400 horas em Desenvolvimento Web FullStack pela Let's Code!</div>
 <div>🤔 Procurando uma oportunidade profissional!</div>
 
 <br>
