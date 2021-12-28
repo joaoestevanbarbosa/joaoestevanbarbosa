@@ -3,7 +3,6 @@
 <div>�Bacharel em Engenharia e Docente em Matemática</div>
 <div>�Realizei um bootcamp patrocinado de 400 horas em Web Full Stack</div>
 <div>�Estudos voltados para Dados e Back-End</div>
-<div>�Procurando uma oportunidade profissional!</div>
 
 <br>
 
