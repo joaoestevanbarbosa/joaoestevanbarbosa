@@ -3,7 +3,8 @@
 <div>�Bacharel em Engenharia e Docente em Matemática</div>
 <div>�Realizei um bootcamp patrocinado de 400 horas em Web Full Stack durante 2021, com foco em .NET C#, SQL e Angular</div>
 <div>�Estudos voltados para Dados e Back-End</div>
-<div>�Atualmente trabalhando na área de planejamento de um call center, tendo como ferramentas Excel, Power BI e SQL em minha rotina</div>
+<div>�Atuando na área de planejamento de um call center, tendo como ferramentas Excel, Power BI e SQL em minha rotina.</div>
+<div>�Futuro Cientista de Dados ou Engenheiro de Dados, ainda em dúvida.</div>
 
 <br>
 
