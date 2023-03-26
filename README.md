@@ -27,6 +27,20 @@ Principais linguages | Main Languages
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" target="_blank">  
 </div>
   
+ <br>
+<div align="center"> 
+Google Cloud Platform Badges
+<br>
+  <a href = "https://www.cloudskillsboost.google/public_profiles/c9fdf403-8356-46a9-898f-7f0bcf6109ca/badges/3161669"> Google Cloud Computing Foundations: Cloud Computing Fundamentals - Locales </a>
+  <br>
+  <a href = "https://www.cloudskillsboost.google/public_profiles/c9fdf403-8356-46a9-898f-7f0bcf6109ca/badges/3178608"> Google Cloud Computing Foundations: Infrastructure in Google Cloud - Locales </a>
+  <br>
+  <a href = "https://www.cloudskillsboost.google/public_profiles/c9fdf403-8356-46a9-898f-7f0bcf6109ca/badges/3161669"> Google Cloud Computing Foundations: Networking & Security in Google Cloud - Locales </a>
+  <br>
+  <a href = "https://www.cloudskillsboost.google/public_profiles/c9fdf403-8356-46a9-898f-7f0bcf6109ca/badges/3161669"> Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud - Locales </a>
+
+</div>
+  
 <br>
 <br>
 <div align="center"> 
@@ -35,6 +49,6 @@ Principais linguages | Main Languages
   <a href = "mailto:jestevan12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaoestevanbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send?phone=5524988352012" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
-  <a href="https://www.cloudskillsboost.google/public_profiles/c9fdf403-8356-46a9-898f-7f0bcf6109ca/badges/3319771"
+
   
 </div>
