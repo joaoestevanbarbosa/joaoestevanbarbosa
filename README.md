@@ -3,7 +3,7 @@
 <div>- Bacharel em Engenharia e Docente em Matemática | Bachelor of Engineering and Math Teacher </div>
 <div>- Realizei um bootcamp patrocinado de 400 horas em Web Full Stack durante 2021, com foco em .NET C#, SQL e Angular | Held a 400-hour sponsored bootcamp during 2021, focusing on .NET C#, SQL and Angular</div>
 <div>- Atualmente estudando para trabalhar com dados | Currently studying for data working</div>
-<div>- Realizando um segundo bootcamp patrocinado de 400 horas para Data Sciente, foco em Python, SQL, Machine Learning e Big Data | Helding a 400-hour sponsored bootcamp, focusing on Python, SQL, Machine Learning and Big Data
+<div>- Realizando um segundo bootcamp patrocinado de 400 horas para Data Sciente, foco em Python, SQL, Machine Learning, Big Data e Google Cloud Platform| Helding a 400-hour sponsored bootcamp, focusing on Python, SQL, Machine Learning, Big Data and Google Cloud Platform
 <div>- Atuando na área de planejamento de um call center, tendo como ferramentas Excel, Power BI e SQL em minha rotina | Working as call center planning, using Excel, Power BI and SQL as tools in my routine</div>
 <div>- Futuro Analista de Dados ou Cientista de Dados ou Engenheiro de Dados ou Engenheiro de Machine Learning, ainda em dúvida | Future Data Analyst or Data Scientist or Data Engineer or ML Engineer, still in doubt.</div>
 
