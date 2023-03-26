@@ -35,9 +35,9 @@ Google Cloud Platform Badges
   <br>
   <a href = "https://www.cloudskillsboost.google/public_profiles/c9fdf403-8356-46a9-898f-7f0bcf6109ca/badges/3178608"> Google Cloud Computing Foundations: Infrastructure in Google Cloud - Locales </a>
   <br>
-  <a href = "https://www.cloudskillsboost.google/public_profiles/c9fdf403-8356-46a9-898f-7f0bcf6109ca/badges/3161669"> Google Cloud Computing Foundations: Networking & Security in Google Cloud - Locales </a>
+  <a href = "https://www.cloudskillsboost.google/public_profiles/c9fdf403-8356-46a9-898f-7f0bcf6109ca/badges/3228365"> Google Cloud Computing Foundations: Networking & Security in Google Cloud - Locales </a>
   <br>
-  <a href = "https://www.cloudskillsboost.google/public_profiles/c9fdf403-8356-46a9-898f-7f0bcf6109ca/badges/3161669"> Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud - Locales </a>
+  <a href = "https://www.cloudskillsboost.google/public_profiles/c9fdf403-8356-46a9-898f-7f0bcf6109ca/badges/3319771"> Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud - Locales </a>
 
 </div>
   
