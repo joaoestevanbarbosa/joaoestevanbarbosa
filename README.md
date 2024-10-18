@@ -3,7 +3,7 @@
 <div>- Bacharel em Engenharia e Docente em Matemática | Bachelor of Engineering and Math Teacher </div>
 <div>- Atualmente estudando para trabalhar com dados | Currently studying for data working</div>
 <div>- Realizei um bootcamp patrocinado de 400 horas para Data Sciente, foco em Python, SQL, Machine Learning, Big Data e Google Cloud Platform| Helding a 400-hour sponsored bootcamp, focusing on Python, SQL, Machine Learning, Big Data and Google Cloud Platform
-<div>- Atuando na área de planejamento e desenvolvimento de um call center, tendo como ferramentas Excel, Power BI, SQL e Python em minha rotina | Working as call center planning and developing, using Excel, Power BI, SQL and Python as tools in my routine</div>
+<div>- Atuando na área de planejamento e desenvolvimento de um call center, tendo como ferramentas Excel, Power BI, SQL em minha rotina | Working as call center planning and developing, using Excel, Power BI, SQL as tools in my routine</div>
 
 <br>
 
